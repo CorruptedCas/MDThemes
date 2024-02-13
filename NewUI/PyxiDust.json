@@ -12,6 +12,7 @@
         "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232", "#f0b232"]
     },
     "rawColors": {
+        "BLUE_345": "#784646",
         "BRAND_100": "#733847",
         "BRAND_130": "#733847",
         "BRAND_160": "#733847",
@@ -44,7 +45,7 @@
         "PLUM_3": "#eee5e8",
         "PLUM_4": "#e7dee1",
         "PLUM_5": "#ddd5d9",
-        "PLUM_6": "#d1c8ce",
+        "PLUM_6": "#a17d82",
         "PLUM_7": "#c2bac1",
         "PLUM_8": "#b2aab4",
         "PLUM_9": "#9f97a3",
