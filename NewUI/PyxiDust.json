@@ -8,8 +8,9 @@
     }
   ],
   "semanticColors": {
-      "BACKGROUND_MENTIONED": ["#ff666614", "#ff666614", "#ff666614", "#ff666614"]
-      "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232", "#f0b232"]
+      "BACKGROUND_MENTIONED": ["#ff666614", "#ff666614", "#ff666614", "#ff666614"],
+      "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232", "#f0b232"],
+      "TEXT_NORMAL": ["#edc2c8", "#edc2c8", "#edc2c8", "#edc2c8"]
   },
   "rawColors": {
       "BLUE_345": "#784646",
@@ -67,6 +68,8 @@
       "PLUM_24": "#191014",
       "PLUM_25": "#160c10",
       "PLUM_26": "#12080b",
+      "PRIMARY_130": "#edc2c8",
+      "PRIMARY_330": "#edc2c8",
       "WHITE_500": "#edc2c8",
       "YELLOW_300": "#ff6666"
   },
