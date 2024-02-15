@@ -13,7 +13,7 @@
       "CHANNEL_ICON": ["#bd8187", "#bd8187"],
       "REDESIGN_CHANNEL_NAME_MUTED_TEXT": ["#bd8187", "#bd8187"],
       "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232", "#f0b232"],
-      "TEXT_NORMAL": ["#edc2c8", "#edc2c8"]
+      "TEXT_NORMAL": ["#edc2c8"]
   },
   "rawColors": {
       "BLUE_345": "#784646",
