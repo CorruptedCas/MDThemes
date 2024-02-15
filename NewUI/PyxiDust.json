@@ -9,8 +9,11 @@
   ],
   "semanticColors": {
       "BACKGROUND_MENTIONED": ["#ff666614", "#ff666614", "#ff666614", "#ff666614"],
+      "ICON_MUTED": ["#bd8187", "#bd8187"],
+      "CHANNEL_ICON": ["#bd8187", "#bd8187"],
+      "REDESIGN_CHANNEL_NAME_MUTED_TEXT": ["#bd8187", "#bd8187"],
       "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232", "#f0b232"],
-      "TEXT_NORMAL": ["#edc2c8", "#edc2c8", "#313338", "#edc2c8"]
+      "TEXT_NORMAL": ["#edc2c8", "#edc2c8"]
   },
   "rawColors": {
       "BLUE_345": "#784646",
@@ -42,7 +45,7 @@
       "BRAND_860": "#733847",
       "BRAND_900": "#733847",
       "PLUM_0": "#fff9fa",
-      "PLUM_1": "#fdf3f4",
+      "PLUM_1": "#ffe1e5",
       "PLUM_2": "#edc2c8",
       "PLUM_3": "#eee5e8",
       "PLUM_4": "#edc2c8",
@@ -54,7 +57,7 @@
       "PLUM_10": "#edc2c8",
       "PLUM_11": "#766f7c",
       "PLUM_12": "#655e6a",
-      "PLUM_13": "#57505b",
+      "PLUM_13": "#7a4c52",
       "PLUM_14": "#4b434d",
       "PLUM_15": "#423a43",
       "PLUM_16": "#3b323b",
